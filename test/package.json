@@ -1,0 +1,29 @@
+{
+  "name": "api-automation-cypress",
+  "version": "1.0.0",
+  "description": "REST API Testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iezalopes/api-automation-cypress.git"
+  },
+  "author": "Ieza Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iezalopes/api-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/iezalopes/api-automation-cypress#readme",
+  "dependencies": {
+    "cypress": "^4.12.1",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mochawesome": "^4.1.0",
+    "mochawesome-merge": "^4.1.0",
+    "mochawesome-report-generator": "^5.1.0"
+  }
+}

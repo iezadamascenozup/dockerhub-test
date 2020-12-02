@@ -1,0 +1,7 @@
+*.iml
+.idea
+vscode
+node_modules
+mochawesome-report
+cypress/video
+cypress/screenshots
